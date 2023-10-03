@@ -2,7 +2,6 @@
 Library    SeleniumLibrary
 Library    OperatingSystem
 Library    Collections
-Library    Screenshot
 
 Resource   cod.robot
 
